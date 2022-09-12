@@ -1,0 +1,53 @@
+.e
+{
+
+   display:flex;
+   gap:3rem;
+   background-color:rgb(223, 108, 20);
+   padding-left: 64rem;
+   padding-top: 2rem;
+   height: 50px; 
+ 
+}
+
+#l
+{
+  background-color:aquamarine;
+}
+
+#l1
+{
+  background-color:aquamarine;
+}
+
+#l2
+{
+  background-color:aquamarine;
+}
+
+#l3
+{
+  background-color:aquamarine;
+}
+
+#l4
+{
+  background-color:aquamarine;
+}
+
+#ll{
+  margin-left: 2rem;
+}
+
+.d1{
+   background-color:rgb(134, 174, 242);
+   
+}
+
+.table,th,td
+{
+    border:solid;
+    width:5%;
+
+}
+
